@@ -1,0 +1,55 @@
+#main{
+  max-width: 1290px;
+  max-height: 100%;
+  background-color:#eeeeee;
+  padding:15px;
+  margin:20px auto;
+  /* display:flex; */
+  align-items: center;
+  border-radius: 10px;
+}
+#title{
+    text-align:center;
+    font-weight:600;
+    font-family: 'Roboto', sans-serif;
+    font-size:40px;
+  }
+  .title-1{
+    font-weight:80;
+    text-align: center;
+  }
+  #img-div{
+    background-color: white;
+    padding:10px
+  }
+  #image{
+    display: block;
+    max-width: 100%;
+    height:auto;
+  }
+  #img-caption{
+    text-align: center;
+    padding:10px;
+  }
+  h3{
+    padding:40px;
+  }
+  li{
+    font-weight: 10;
+    padding:10px;
+    font-size:18px;
+    
+    
+  }
+.quote{
+  margin:20px;
+  font-size:18px;
+}
+.name{
+  padding:40px
+}
+.more-info{
+  font-size:13px;
+  margin:30px;
+  text-align: center;
+}
